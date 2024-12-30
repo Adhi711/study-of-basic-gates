@@ -1,7 +1,7 @@
 
 ### NAME:U.ADHARSH VIDYARDH
 ### REG NO:24900088
-# EXNO1:STUDY OF BASIC GATES
+# EXNO1:IMPLEMENTATION OF STUDY OF BASIC GATES
 
 # AIM:
 
@@ -69,8 +69,6 @@ Y= A⊕B
 ![Screenshot 2024-10-24 144301](https://github.com/user-attachments/assets/9458a6c0-9c45-48d8-94d6-bc0b330179bb)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
  
 # Logic symbol & Truthtable
 ![WhatsApp Image 2024-10-28 at 11 19 40 AM](https://github.com/user-attachments/assets/57df5c3c-d4ea-4093-b125-b31b916fce5a)
